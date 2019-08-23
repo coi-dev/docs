@@ -48,5 +48,5 @@ You don't need to switch. From a COI client you can communicate with any active 
 * Visit [coi-dev.org](https://coi-dev.org).
 * Join the COI developer mailing list by sending a mail to [dev-join@coi-dev.org](mailto://dev-join@coi-dev.org?subject=subscribe&body=please%20subscribe%20me%20to%20the%20COI%20mailing%20list.).
 * Watch our FOSDEM talk:
-** https://video.fosdem.org/2019/H.1309/chat_over_imap.mp4
-** https://video.fosdem.org/2019/H.1309/chat_over_imap.webm
+  * https://video.fosdem.org/2019/H.1309/chat_over_imap.mp4
+  * https://video.fosdem.org/2019/H.1309/chat_over_imap.webm
