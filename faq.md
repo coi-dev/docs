@@ -5,7 +5,7 @@ COI allows everyone to chat on basis of the current email infrastructure, the ex
 
 ## What about end to end encryption?
 COI currently uses [Autocrypt](https://autocrypt.org) for automatic and effortless end to end encryption of messages.
-Additiobally Open-Xchange has launched and supportsthe  [Trusted Email Services](https://TESMail.org) to describe a secure email setup. 
+Additionally Open-Xchange has launched and supports the  [Trusted Email Services](https://TESMail.org) to describe a secure email setup. 
 For the future we are considering further encryption schemes like the emerging Message Layer Security standard.
 
 ## Isn't COI just adding another silo?
