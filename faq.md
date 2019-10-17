@@ -22,9 +22,10 @@ JMAP provides alternate means to talk to the email backend, that is very (mobile
 calendar. Very cool! We hope JMAP will pull in the enhancements COI provides as well. 
 
 ## Where can I download clients? How can I test this?
-OX - the initiator of the COI initiative - is working on its own COI messenger. This one is MPL licensed and available at 
+OX - the initiator of the COI initiative - is working on its own COI messenger. This is MPL licensed and available at 
 [github.com/open-xchange/ox-coi](https://github.com/open-xchange/ox-coi).
-We are cooperating with Delta.Chat for it to also use COI to provide more features, we are contributing to the Rust-Kernel of it. 
+A beta for Android is already available in the [Play Store](https://play.google.com/store/apps/details?id=com.openxchange.oxcoi), iOS will follow very soon.
+We are also cooperating with Delta.Chat for it to use COI to provide more features, we are contributing to the Rust-Kernel of it. 
 We are cooperating with other client developers such as Thunderbird or Spike to get more clients use COI, and invite all ISV's to join in. There are soooo many variants of Chat / Slack / Social Clients out there. Let's put them on COI and make them interoperable and give users control over where all that data sits!
 
 ## Where can I find a COI compliant server?
